@@ -15,6 +15,7 @@ Tutorial: [https://docs.arduino.cc/built-in-examples/digital/Button](https://doc
 Neem voorbeeld door en voer uit met de studenten.
 
 Leg verder uit:
++ Circuit + Schematic
 + Wat is een weerstand / ohm ?
 + Wat is een variabele? variabelen in voorbeeld `int buttonState = 0;`
 
